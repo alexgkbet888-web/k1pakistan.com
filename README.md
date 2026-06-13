@@ -1,4 +1,4 @@
-# k1pakistan.com
+﻿# k1pakistan.com
 
 Static SEO site for k1pakistan.com.
 
@@ -14,6 +14,7 @@ Static SEO site for k1pakistan.com.
 
 ## SEO operation
 
-- Submit `https://k1pakistan.com/sitemap.xml` in Google Search Console.
+- Submit `http://k1pakistan.com/sitemap.xml` in Google Search Console.
 - Use `KEYWORD-LIBRARY.csv`, `CONTENT-CALENDAR.csv`, and `52-WEEK-CONTENT-BACKLOG.csv` for weekly updates.
 - Publish or refresh 2-5 pieces per week after launch.
+
