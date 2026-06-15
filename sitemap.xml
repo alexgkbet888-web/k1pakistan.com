@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://k1pakistan.com/</loc><lastmod>2026-06-12</lastmod></url>
-  <url><loc>https://k1pakistan.com/guides/</loc><lastmod>2026-06-12</lastmod></url>
+  <url><loc>https://k1pakistan.com/</loc><lastmod>2026-06-16</lastmod></url>
+  <url><loc>https://k1pakistan.com/guides/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>https://k1pakistan.com/download/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>https://k1pakistan.com/android/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>https://k1pakistan.com/install-faq/</loc><lastmod>2026-06-12</lastmod></url>
-  <url><loc>https://k1pakistan.com/updates/</loc><lastmod>2026-06-14</lastmod></url>
-  <url><loc>https://k1pakistan.com/guides/k1-game-download-android-pakistan/</loc><lastmod>2026-06-14</lastmod></url>
-  <url><loc>https://k1pakistan.com/guides/k1-game-apk-not-installing/</loc><lastmod>2026-06-13</lastmod></url>
+  <url><loc>https://k1pakistan.com/updates/</loc><lastmod>2026-06-16</lastmod></url>
+  <url><loc>https://k1pakistan.com/guides/k1-game-download-android-pakistan/</loc><lastmod>2026-06-16</lastmod></url>
+  <url><loc>https://k1pakistan.com/guides/k1-game-apk-not-installing/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>https://k1pakistan.com/guides/k1-game-latest-apk-file-size/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>https://k1pakistan.com/guides/safe-source-checklist/</loc><lastmod>2026-06-13</lastmod></url>
   <url><loc>https://k1pakistan.com/guides/android-unknown-source-warning/</loc><lastmod>2026-06-13</lastmod></url>
@@ -30,6 +30,7 @@
   <url><loc>https://k1pakistan.com/guides/download-without-play-store/</loc><lastmod>2026-06-13</lastmod><image:image><image:loc>https://k1pakistan.com/assets/k1-evidence/k1-game-login-download-mobile.webp</image:loc><image:caption>K1 public evidence screenshot for download-without-play-store</image:caption></image:image></url>
   <url><loc>http://k1pakistan.com/guides/k1-game-apk-not-installing/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>http://k1pakistan.com/updates/</loc><lastmod>2026-06-16</lastmod></url>
+  <url><loc>https://k1pakistan.com/guides/apk-permissions-before-install/</loc><lastmod>2026-06-16</lastmod></url>
 </urlset>
 
 
