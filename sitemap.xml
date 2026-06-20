@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>http://k1pakistan.com/</loc><lastmod>2026-06-17</lastmod></url>
-  <url><loc>http://k1pakistan.com/guides/</loc><lastmod>2026-06-17</lastmod></url>
+  <url><loc>http://k1pakistan.com/</loc><lastmod>2026-06-19</lastmod></url>
+  <url><loc>http://k1pakistan.com/guides/</loc><lastmod>2026-06-19</lastmod></url>
   <url><loc>http://k1pakistan.com/download/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistan.com/android/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistan.com/install-faq/</loc><lastmod>2026-06-12</lastmod></url>
@@ -42,6 +42,9 @@
   <url><loc>http://k1pakistan.com/guides/android-apk-troubleshooting/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>http://k1pakistan.com/guides/apk-split-file-install/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>http://k1pakistan.com/site-map/</loc><lastmod>2026-06-17</lastmod></url>
+  <url><loc>http://k1pakistan.com/guides/install-permission-denied/</loc><lastmod>2026-06-18</lastmod></url>
+  <url><loc>http://k1pakistan.com/guides/app-not-installed-after-update/</loc><lastmod>2026-06-19</lastmod></url>
 </urlset>
+
 
 
