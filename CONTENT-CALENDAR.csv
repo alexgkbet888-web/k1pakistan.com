@@ -1,4 +1,4 @@
-week,site,content_type,target_keyword,url,action
+﻿week,site,content_type,target_keyword,url,action
 1,"K1 Download Desk","download","k1 game download android pakistan","/guides/k1-game-download-android-pakistan/","Publish or improve: K1 Game Download for Android in Pakistan"
 1,"K1 Download Desk","troubleshooting","k1 game apk not installing","/guides/k1-game-apk-not-installing/","Publish or improve: K1 Game APK Not Installing: Fixes and Checks"
 1,"K1 Download Desk","version","k1 game latest apk file size","/guides/k1-game-latest-apk-file-size/","Publish or improve: K1 Game Latest APK File Size and Version Checks"
@@ -29,3 +29,8 @@ week,site,content_type,target_keyword,url,action
 7,"K1 Download Desk","download","k1 game apk download without play store","/guides/apk-download-without-play-store/","Publish or improve: K1 Game APK Download Without Play Store: Safety Route"
 8,"K1 Download Desk","download hub","k1 game apk troubleshooting","/guides/android-apk-troubleshooting/","Publish or improve: K1 Game APK Troubleshooting Hub for Pakistan Android Users"
 2026-06-18,k1pakistan.com,K1 Download Desk,"k1 game apk split file install",/guides/apk-split-file-install/,next content sprint
+"2026-06-18","published","k1 game apk install permission denied","/guides/install-permission-denied/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+"2026-06-19","published","k1 game apk app not installed after update","/guides/app-not-installed-after-update/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+
+"2026-06-20","planned","k1 game apk update keeps failing","/guides/apk-update-keeps-failing/","next content sprint","Publish or improve: K1 Game APK Update Keeps Failing"
+"2026-06-21","planned","k1 game apk signature mismatch after update","/guides/apk-signature-mismatch-after-update/","next content sprint","Publish or improve: K1 Game APK Signature Mismatch After Update"
