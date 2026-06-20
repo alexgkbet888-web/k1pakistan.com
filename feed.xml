@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>K1 Download Desk Feed</title>
     <link>http://k1pakistan.com/</link>
     <description>Recent guide updates for K1 Download Desk.</description>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <item>
+      <title>K1 Game APK App Not Installed After Update: What Pakistan Users Should Check</title>
+      <link>http://k1pakistan.com/guides/app-not-installed-after-update/</link>
+      <guid>http://k1pakistan.com/guides/app-not-installed-after-update/</guid>
+      <pubDate>Fri, 19 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Pakistan Android guide for K1 Game APK users who updated the file but then see an app not installed warning before setup finishes.</description>
+    </item>
+    <item>
+      <title>K1 Game APK Install Permission Denied: Android Fix Checklist</title>
+      <link>http://k1pakistan.com/guides/install-permission-denied/</link>
+      <guid>http://k1pakistan.com/guides/install-permission-denied/</guid>
+      <pubDate>Thu, 18 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Pakistan Android guide for users who downloaded K1 Game APK but see an install permission denied warning before setup starts.</description>
+    </item>
     <item>
       <title>K1 Game APK Split File Install: Android Safety Checklist</title>
       <link>http://k1pakistan.com/guides/apk-split-file-install/</link>
@@ -175,3 +189,4 @@
     </item>
   </channel>
 </rss>
+
