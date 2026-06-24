@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>http://k1pakistan.com/</loc><lastmod>2026-06-22</lastmod></url>
-  <url><loc>http://k1pakistan.com/guides/</loc><lastmod>2026-06-19</lastmod></url>
+  <url><loc>http://k1pakistan.com/</loc><lastmod>2026-06-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>http://k1pakistan.com/guides/</loc><lastmod>2026-06-24</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
   <url><loc>http://k1pakistan.com/download/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistan.com/android/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistan.com/install-faq/</loc><lastmod>2026-06-12</lastmod></url>
-  <url><loc>http://k1pakistan.com/updates/</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.72</priority></url>
+  <url><loc>http://k1pakistan.com/updates/</loc><lastmod>2026-06-24</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
   <url><loc>http://k1pakistan.com/guides/k1-game-download-android-pakistan/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>http://k1pakistan.com/guides/k1-game-apk-not-installing/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>http://k1pakistan.com/guides/k1-game-latest-apk-file-size/</loc><lastmod>2026-06-16</lastmod></url>
@@ -22,8 +22,8 @@
   <url><loc>http://k1pakistan.com/contact/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistan.com/privacy/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistan.com/terms/</loc><lastmod>2026-06-12</lastmod></url>
-  <url><loc>http://k1pakistan.com/faq/</loc><lastmod>2026-06-22</lastmod><changefreq>weekly</changefreq><priority>0.82</priority></url>
-  <url><loc>http://k1pakistan.com/support/</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.78</priority></url>
+  <url><loc>http://k1pakistan.com/faq/</loc><lastmod>2026-06-24</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>http://k1pakistan.com/support/</loc><lastmod>2026-06-24</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
   <url><loc>http://k1pakistan.com/register/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistan.com/guides/chrome-download-blocked/</loc><lastmod>2026-06-13</lastmod></url>
   <url><loc>http://k1pakistan.com/guides/apk-download-checklist-pakistan/</loc><lastmod>2026-06-13</lastmod><image:image><image:loc>http://k1pakistan.com/assets/k1-evidence/k1-game-login-download-mobile.webp</image:loc><image:caption>K1 public evidence screenshot for apk-download-checklist-pakistan</image:caption></image:image></url>
@@ -45,7 +45,7 @@
   <url><loc>http://k1pakistan.com/guides/install-permission-denied/</loc><lastmod>2026-06-18</lastmod></url>
   <url><loc>http://k1pakistan.com/guides/app-not-installed-after-update/</loc><lastmod>2026-06-19</lastmod></url>
   <url><loc>http://k1pakistan.com/guides/k-1-download-apk-pakistan-checklist/</loc><lastmod>2026-06-22</lastmod></url>
-<url><loc>http://k1pakistan.com/guides/k1-game-download-official-vs-apk-guide/</loc><lastmod>2026-06-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url><loc>http://k1pakistan.com/guides/k1-game-download-vs-k1-game-official-site/</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url></urlset>
+<url><loc>http://k1pakistan.com/guides/k1-game-download-official-vs-apk-guide/</loc><lastmod>2026-06-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url><loc>http://k1pakistan.com/guides/k1-game-download-vs-k1-game-official-site/</loc><lastmod>2026-06-24</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url></urlset>
 
 
 
