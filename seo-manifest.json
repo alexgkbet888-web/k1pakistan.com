@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1pakistan.com",
+  "brand": "K1 Pakistan",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1pakistan.com/",
+  "siteType": "authority",
+  "positioning": "K1 Game download authority site for Pakistan Android users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "K1 game download",
+    "K1 Pakistan",
+    "K 1 download"
+  ],
+  "secondaryKeywords": [
+    "K1 game APK",
+    "K1 game download Pakistan",
+    "K1 game download Android",
+    "K1 APK install"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1pakistan.com/sitemap.xml",
+    "robotsUrl": "https://k1pakistan.com/robots.txt",
+    "feedUrl": "https://k1pakistan.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1pakistan.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
