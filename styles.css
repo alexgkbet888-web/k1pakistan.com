@@ -38,5 +38,16 @@ body{margin:0;font-family:Inter,Arial,sans-serif;background:#eaf7ff;color:#082f4
   .mobile-version p{font-size:15.5px!important;line-height:1.58!important}
   .m-register{width:min(338px,calc(100vw - 52px))!important}
   .m-actions{width:min(338px,calc(100vw - 52px))!important}
+
+  /* Direct homepage sections sit outside the dark mobile hero. */
+  body>section,
+  body>footer{color:#17202a}
+  body>section li{margin-block:6px}
+  body>section li>a{
+    display:inline-flex;
+    align-items:center;
+    min-height:44px;
+    padding-block:8px;
+  }
 }
 
